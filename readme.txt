@@ -1,6 +1,3 @@
-# Twitter-Sentiment-Analysis
-Python Application for Strictly positive and negative sentiment analysis
-
 For Part A:
 Twitter Client:
 To exceute this program in Dockers
